@@ -14,3 +14,7 @@ construction
 
 The only files I worked on for this project were sample.cpp (used for testing openGL), ship.cpp, camera.cpp, camera.h and 
 modelerglobals.h to add colors and sliders.
+
+Star_Chick is a screenshot of the 3D model made for this project. 
+Try_Fly.gif is the animation of the model performing actions made with the sliders.
+save.bmp is a screenshot of the sample model made.
